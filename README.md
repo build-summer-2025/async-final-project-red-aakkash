@@ -3,33 +3,33 @@ Your repostiory should be named something like `async-final-project-color-name`
 Example: `async-final-project-teal-Anas`
 
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Health care system and access (WHO Global Health Observatory)](https://www.who.int/data/inequality-monitor/data#PageContent_C691_Col00)
 
-## Why did I chose this dataset?
+I chose this dataset because it directly reflects one of the most pressing global challenges: equitable access to healthcare. The WHO Global Health Observatory provides indicators from nearly every country, disaggregated by age, sex, residence, and economic status. This makes it possible to explore health inequalities across regions, populations, and income groups.
 
-[Placeholder for answer]
+This dataset also aligns with my personal interests in healthcare accessibility and technology for social good. By analyzing global trends in health system capacity and access, I can highlight disparities that matter for public health and connect them to real-world solutions, such as apps and tools that improve healthcare access.
 
 ## Progress
-- [ ] Picked dataset
+- [X] Picked dataset
 - [ ] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: [Brief description of the task]
+- [ ] Question 1: How does access to essential health services vary across world regions?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
-- [ ] Question 2: [Brief description of the task]
+- [ ] Question 2: How has the density of doctors and nurses changed over time globally?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3: [Brief description of the task]
+- [ ] Question 3: Which countries have the highest vs lowest access to health care?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
 
-- [ ] Question 4: [Brief description of the task]
+- [ ] Question 4: Do urban vs rural populations have different levels of access to care?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
 
